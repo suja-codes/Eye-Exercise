@@ -1,8 +1,11 @@
-## Eye Exercise
 
-Javascript exercise in which mouse movement event is used to update the position of the "eye" element displayed on the page.
+<h1 align="center">Eye Exercise</h1>
 
-<img src = "./eyes.jpg" width='300'/>
+<h4 align="center">Javascript exercise in which mouse movement event is used to update the position of the "eye" element displayed on the page.</h4>
+
+<div align="center" id="top"> 
+<img src = "./eyes.jpg" width='400'/>
+</div>Eye Exercise
 
 ### Description 
 
@@ -12,14 +15,16 @@ Javascript exercise in which mouse movement event is used to update the position
 
 - Example: mousemove - Triggered when the mouse moves over an element.
 
-- In this exercise, the mouse movement event is used to update the position of the "eye" element displayed on the page. 
+- In this exercise, the mouse movement event is used to update the position of the "eye" element displayed on 
+
+  the page. 
 
 
 ### To Run this Program
 
 - Fork and Clone the repository on your local machine.
 
-- Drag and drop the index.html file onto the new tab.
+- Drag and drop the index.html file in a browser tab.
 
 - Move the mouse around the screen.
 
