@@ -2,7 +2,7 @@
 
 Javascript exercise in which mouse movement event is used to update the position of the "eye" element displayed on the page.
 
-<img src ="./Eyes.jpg" alt="Eyes picture">
+<img src = "./eyes.jpg" width='300'/>
 
 ### Description 
 
