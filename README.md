@@ -2,7 +2,7 @@
 <h1 align="center">Eye Exercise</h1>
 
 <h4 align="center">Javascript exercise in which mouse movement event is used to update the position of the "eye" element displayed on the page.</h4>
-
+<br>
 <div align="center" id="top"> 
 <img src = "./eyes.jpg" width='400'/>
 </div>Eye Exercise
