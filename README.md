@@ -15,9 +15,7 @@
 
 - Example: mousemove - Triggered when the mouse moves over an element.
 
-- In this exercise, the mouse movement event is used to update the position of the "eye" element displayed on 
-
-  the page. 
+- In this exercise, the mouse movement event is used to update the position of the "eye" element displayed on the page. 
 
 
 ### To Run this Program
