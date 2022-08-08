@@ -5,11 +5,11 @@
 <br>
 <div align="center" id="top"> 
 <img src = "./eyes.jpg" width='400'/>
-</div>Eye Exercise
+</div>
 <br>
 <br>
 
-*Click to see it in action: [Eyes exercise](https://suja-codes.github.io/Eye-Exercise/)*
+*Click to see it in action: [Eye exercise](https://suja-codes.github.io/Eye-Exercise/)*
 
 ### Description 
 
