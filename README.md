@@ -4,12 +4,12 @@
 <h4 align="center">Javascript exercise in which mouse movement event is used to update the position of the "eye" element displayed on the page.</h4>
 <br>
 <div align="center" id="top"> 
-<img src = "./eyes.jpg" width='400'/>
+<img src = "./eye.png" width='400'/>
 </div>
 <br>
 <br>
 
-*Click to see it in action: [Eye exercise](https://suja-codes.github.io/Eye-Exercise/)*
+*Visit github page for this repository: [Eye exercise](https://suja-codes.github.io/Eye-Exercise/)*
 
 ### Description 
 
